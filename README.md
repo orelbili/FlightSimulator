@@ -6,3 +6,6 @@ Final project in Advanced software development course as part of our B.Sc. Compu
 The Flight simulator can connect to the FlightGear software according to TCP protocol, Our simulator knows to tell us where anomalies in the values ​​of the interrogated interrogation were detected given a normal flight file and another interrogated flight file. We have developed for the investigation of the anomalies anomalies algorithms.
 
 The app does not know the anomaly algorithms in advance but loads them as a plug-in, And so the user can build his own anomaly algorithms and add them himself.
+
+### MileStones
+<img src="img\img01.png" width=555>
