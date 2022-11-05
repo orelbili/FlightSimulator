@@ -8,4 +8,4 @@ The Flight simulator can connect to the FlightGear software according to TCP pro
 The app does not know the anomaly algorithms in advance but loads them as a plug-in, And so the user can build his own anomaly algorithms and add them himself.
 
 ### MileStones
-<img src="img\img01.png" width=555>
+<img src="imgges\imgflightsimulator.png" width=555>
